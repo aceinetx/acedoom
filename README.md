@@ -1,2 +1,2 @@
 # acedoom
-My own version of genericdoom for windows with a few adjustments
+My own version of genericdoom with a few adjustments
